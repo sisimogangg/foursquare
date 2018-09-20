@@ -118,3 +118,7 @@ docker build -t foursquareAPI:1.0 .
 ```bash
 docker run -p 81:5001 -d --name foursquareApi foursquareAPI:1.0
 ```
+
+### Docker hub
+
+This exact image is currently available on Docker hub [here](https://hub.docker.com/r/sisimogangg/foursquare/)
