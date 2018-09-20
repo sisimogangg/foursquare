@@ -18,7 +18,7 @@ Currently the mediator service (built in ASP.net Core 2.1) is only handling the 
 
 # Enpoints
 
-## Reuqest
+## Request
 
 Method: GET
 
