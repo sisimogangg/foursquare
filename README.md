@@ -16,7 +16,23 @@ If you're familiar with [FoursquareAPI](https://developer.foursquare.com/) then 
 
 Currently the mediator service (built in ASP.net Core 2.1) is only handling the **Foursquare** load. I will then in the near future integrate more public APIs.
 
-# What I actually need to send to my client as of V1
+# Enpoints
+
+## Reuqest
+
+Method: GET
+
+Params: Coordinates (LatLng)
+
+Example:
+
+```http
+http://localhost:81/api/places?lat=-29.748428800000003&lng=31.0648832
+```
+
+## Response
+
+As of V1, it is just a list of recommended places from foursquare API
 
 ```json
 [
