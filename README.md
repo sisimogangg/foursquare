@@ -1,7 +1,7 @@
 # FoursquareAPI
 
-![https://img.shields.io/badge/version-1.0-red.svg]
-![https://img.shields.io/badge/net--core-2.1-blue.svg]
+![]https://img.shields.io/badge/version-1.0-red.svg
+![]https://img.shields.io/badge/net--core-2.1-blue.svg
 
 # Overview
 
